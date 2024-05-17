@@ -24,3 +24,4 @@ The Haynes lab believes in open access to publications and pre-printing. If you 
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
