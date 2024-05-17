@@ -26,32 +26,9 @@ The Haynes lab will be welcoming graduate students, post-docs, undergraduates an
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
-  text=text
-%}
-
-{% capture text %}
-
-[insert text]
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research.png"
-  link="research"
-  title="Our Research"
   text=text
 %}
 
@@ -80,6 +57,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
+{% capture text %}
 
+[insert text]
 
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research.png"
+  link="research"
+  title="Our Research"
+  text=text
+%}
 
