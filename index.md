@@ -34,7 +34,7 @@ The Haynes lab will be welcoming graduate students, post-docs, undergraduates an
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+There are several exciting ongoing projects in the Haynes lab to study the basic cell biology of microglia and understand microglial roles in neurodegeneration.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,12 +59,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-[insert text]
+Keep up with our current publications and preprints.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our recent publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
