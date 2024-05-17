@@ -13,7 +13,7 @@ The Haynes lab believes in open access to publications and pre-printing. If you 
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="KLC4 shapes axon arbors during development and mediates adult behavior" style="rich" %}
 
 {% include section.html %}
 
