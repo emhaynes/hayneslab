@@ -20,7 +20,8 @@ For all other inquiries, please email Liz at:
 
 {%
   include button.html
-  type="Find us at the Wisconsin Institute for Medical Research"
+  type="address"
+  text="Find us at the Wisconsin Institute for Medical Research"
   tooltip="The Department of Cell and Regenerative Biology at UW-Madison"
   link="https://maps.app.goo.gl/1NmgK6p9ipwvsxgW7"
 %}
