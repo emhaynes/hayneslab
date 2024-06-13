@@ -1,5 +1,5 @@
 
-# emhaynesDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# The Haynes Lab is at the department of Cell and Regenerative Biology at UW-Madison. We study microglia in the growing and aging brain.
 
 Visit **[emhaynes.github.io/hayneslab](https://emhaynes.github.io/hayneslab)** 🚀
 
