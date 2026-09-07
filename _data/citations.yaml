@@ -1,5 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1242/jcs.264788
+  title: A 3D printable device for non-invasive longitudinal neuroimaging in the adult
+    zebrafish
+  authors:
+  - Elizabeth M. Haynes
+  - Corey Steinhauser
+  - Alexandra Fister
+  - Robert Swader
+  - George Petry
+  - Tyler K. Ulland
+  - Kevin W. Eliceiri
+  publisher: Journal of Cell Science
+  date: '2026-08-26'
+  link: https://doi.org/hcg8kx
+  orcid: 0000-0002-5294-018X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.09.23.676912
+  title: Non-invasive longitudinal imaging reveals aging-associated changes in neuroimmune
+    cells in adult zebrafish
+  authors:
+  - Elizabeth M. Haynes
+  - Corey Steinhauser
+  - Robert Swader
+  - George Petry
+  - Tyler K. Ulland
+  - Kevin W. Eliceiri
+  publisher: openRxiv
+  date: '2025-09-25'
+  link: https://doi.org/g948w3
+  orcid: 0000-0002-5294-018X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.74270
   title: KLC4 shapes axon arbors during development and mediates adult behavior
   authors:
@@ -17,6 +50,19 @@
   orcid: 0000-0002-5294-018X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3389/fnmol.2022.867010
+  title: 'A Model of Discovery: The Role of Imaging Established and Emerging Non-mammalian
+    Models in Neuroscience'
+  authors:
+  - Elizabeth M. Haynes
+  - Tyler K. Ulland
+  - Kevin W. Eliceiri
+  publisher: Frontiers in Molecular Neuroscience
+  date: '2022-04-14'
+  link: https://doi.org/gtzp2m
+  orcid: 0000-0002-5294-018X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2021.09.26.461872
   title: KLC4 shapes axon arbors during development and mediates adult behavior
   authors:
@@ -28,7 +74,7 @@
   - Kevin W. Eliceiri
   - Jan Huisken
   - Mary C. Halloran
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-09-26'
   link: https://doi.org/gsz223
   orcid: 0000-0002-5294-018X
@@ -50,7 +96,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1242/jcs.184507
-  title: Lamellipodia are critical for haptotactic sensing and response
+  title: Lamellipodia are crucial for haptotactic sensing and response
   authors:
   - Samantha J. King
   - Sreeja B. Asokan
@@ -69,7 +115,7 @@
   - Jason M. Haugh
   - James E. Bear
   publisher: Journal of Cell Science
-  date: '2016-01-01'
+  date: '2016-06-15'
   link: https://doi.org/f8vfhg
   orcid: 0000-0002-5294-018X
   plugin: orcid.py
